@@ -1,5 +1,5 @@
 #set path
-path="//ace/home/ymelamed/BDB24/"
+path=
 input=paste0(path, "nfl-big-data-bowl-2024/")
 output=paste0(path, "Output/")
 
